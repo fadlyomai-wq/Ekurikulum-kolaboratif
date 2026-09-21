@@ -1,0 +1,6 @@
+{
+  "name": "KurikulumLink - Kolaborasi Rencana Pembelajaran",
+  "description": "Platform manajemen kurikulum kolaboratif dan rencana pembelajaran digital dengan sinkronisasi real-time, ekspor PDF, analitik progres siswa, akses offline terenkripsi, dan integrasi API pendidikan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
